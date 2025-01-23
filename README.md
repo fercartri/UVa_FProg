@@ -47,5 +47,5 @@ El objetivo es desarrollar un programa que:
 ---
 
 ## Herramientas Utilizadas
-Lenguaje: Java.
-Estrategia: Búsqueda en diccionario interno para proponer palabras que cumplan las pistas dadas.
+- Lenguaje: Java.
+- Estrategia: Búsqueda en diccionario interno para proponer palabras que cumplan las pistas dadas.
